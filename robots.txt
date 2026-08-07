@@ -1,0 +1,14 @@
+# 7 Changes Enterprise - Robots.txt
+# Luxury Event Decor & Rentals | South Africa
+
+User-agent: *
+Allow: /
+Allow: /assets/images/
+
+# Block search engines from crawling code and heavy video files
+Disallow: /assets/css/
+Disallow: /assets/js/
+Disallow: /assets/videos/
+
+# Point to the Sitemap
+Sitemap: https://www.7changesenterprise.co.za/sitemap.xml
